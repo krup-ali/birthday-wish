@@ -1,0 +1,14 @@
+
+.card-title{
+  font-size:3em;
+  text-decoration-thickness: 50%;
+  color:rgb(255, 246, 82);
+}
+.card{
+  border-radius:20%;
+}
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  .card {
+    width: 100%;
+  }
